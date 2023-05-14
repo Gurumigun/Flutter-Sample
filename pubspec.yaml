@@ -46,10 +46,9 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-  webview_flutter: ^4.0.7
-  get: '^4.6.5'
-  get_storage: '^2.1.1'
-  flutter_screenutil: '^5.7.0'
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: 2.2.1
+  geolocator: 9.0.2
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
